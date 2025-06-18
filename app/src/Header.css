@@ -1,0 +1,8 @@
+.myimgH{
+    height: 90px;
+    width:300px
+  }
+
+.headerH{
+  background-image: linear-gradient(rgba(165, 113, 207, 0.35),rgba(76, 23, 119, 0.35),rgb(35, 11, 55,.35),rgba(7, 0, 13, 0.35));
+}

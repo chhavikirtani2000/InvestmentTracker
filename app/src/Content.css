@@ -1,0 +1,53 @@
+  .hC_class{
+    color: whitesmoke;
+    font-size: 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  .pC_class{
+    color:plum;
+    text-align: center;
+    font-size: 25px;
+    width:100%
+  }
+
+  .divC_class{
+    position: relative;
+    animation-name: example;
+    animation-duration: 4s;  
+    animation-fill-mode: forwards;
+    display:flexbox;
+  }
+  @keyframes example {
+    from {top: 0px;  background-image: linear-gradient(rgba(165, 113, 207, 0.35),rgba(76, 23, 119, 0.35),rgb(35, 11, 55,.35),rgba(7, 0, 13, 0.35));
+    }
+    to {top: 80px;  background-image: linear-gradient(rgba(165, 113, 207, 0.35),rgba(76, 23, 119, 0.35),rgb(35, 11, 55,.35),rgba(7, 0, 13, 0.35));
+      ;}
+  }
+
+  .buttonC {
+    cursor: pointer;
+    border: 0;
+    border-radius: 4px;
+    font-weight: 600;
+    margin: 0 10px;
+    width: 200px;
+    padding: 10px 0;
+    box-shadow: 0 0 20px rgba(104, 85, 224, 0.2);
+    transition: 0.4s;
+  }
+  
+  .logC {
+    color: rgb(104, 85, 224);
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(104, 85, 224, 1);
+    font-size: 20px;
+  }
+  
+  .buttonC:hover {
+    color: white;
+    width:200px;
+    box-shadow: 0 0 20px rgba(104, 85, 224, 0.6);
+    background-color: rgba(104, 85, 224, 1);
+  }
+  

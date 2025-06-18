@@ -1,0 +1,36 @@
+
+.tt{
+    float: right;
+    width: 20%;
+  }
+.btn{
+    margin: 20px 20px 20px 20px;
+    border-radius: 50px;
+ }
+ 
+ .header{
+    margin: 20px 20px 20px 20px;
+ }
+ 
+ .row-desc{
+   margin: 20px 20px 20px 20px;
+ }
+ 
+ .row-sm{
+   
+   border-radius: 0px;
+ }
+ 
+ .card-sm{
+   padding: 10px 10px;
+   border-radius: 0px;
+   background-color: #e3f0c9;
+   box-shadow: 10px
+ }
+ 
+ .card-val{
+   text-align: right;
+   font-weight: bold;
+   font-size: 20px;
+ }
+ 

@@ -1,0 +1,32 @@
+.cardDC {
+  margin-bottom: 30px;
+  background-image: linear-gradient(rgba(165, 113, 207),rgba(76, 23, 119),rgb(35, 11, 55),rgba(7, 0, 13,0.5));
+  width: 20%;
+  padding: 20px;
+  margin-top: 70px;
+  margin-left: 20px;
+  margin-right: 20px;
+  display: inline-block;
+}
+
+.cardDC:hover {
+  box-shadow: 0 0 12px 3px rgba(0, 0, 0, 0.08);
+}
+
+.card-titleDC {
+  margin-top: 20px;
+}
+
+.card-textDC {
+  font-size: 14px;
+  color: red;
+}
+
+.card-texttDC {
+  font-size: 14px;
+  color: green;
+}
+
+.card-textDC .fa {
+  font-size: 26px;
+}

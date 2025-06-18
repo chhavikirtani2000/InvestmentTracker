@@ -1,0 +1,10 @@
+.pF_class{
+    color:white;
+    background-image: linear-gradient(rgba(165, 113, 207, 0.35),rgba(76, 23, 119, 0.35),rgb(35, 11, 55,.35));
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+
+  }
